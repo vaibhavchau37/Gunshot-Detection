@@ -1152,7 +1152,7 @@ The project also relies on publicly available audio datasets and custom data sou
 
 ## Author
 
-**Vaibhav Chauhan**
+**Vaibhav Chaudhary**
 
 GitHub: `vaibhavchau37`
 
